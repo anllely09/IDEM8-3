@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("fondo1.jpg");
     
     background-repeat: no-repeat;
     
@@ -37,7 +37,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpeg");
+    background-image: url("fondo1.jpg");
     
     }
     
@@ -52,12 +52,13 @@
     }
     
     .texto{
-    
+    position: relative;
+    top: 80px;
     font-size: 40px;
-    
+    left: 10px;
     text-align: justify;
     
-    color: brown;
+    color: rgb(0, 0, 0);
     
      
     
