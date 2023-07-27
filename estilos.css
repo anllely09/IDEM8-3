@@ -13,34 +13,23 @@
     
     background-image: url("fondo1.jpg");
     
-    
+    background-repeat: repeat;
     
     }
     
-    .fondotec{
-    
-    background-image: url("tecno.jpg");
-        
-   
-        
-    }
     
     
     .img{
     
     position: relative;
     
-     
-    
-    width: 89px;
+    width: 80px;
     
     height: 190px;
     
     border-radius: 10px;
     
     background-repeat: no-repeat;
-    
-     
     
     left: 189px;
     
@@ -57,7 +46,7 @@
     
     }
     
-    .contenido{
+    .contenidos{
 
     height: 280px;
         
@@ -69,7 +58,105 @@
         
          
         
-        }
+    }
+
+    .monomio{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        text-align: justify;
+        top: 112%;
+        float: left;
+        height: 430px;
+        width: 470px;
+        margin-left: 85px;
+        margin-right:5px;
+        background-image: url("monomio.png");
+        
+    }
+
+    .binomio{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        text-align: justify;
+        top: 194%;
+        float: left;
+        height: 430px;
+        width: 470px;
+        margin-left: 85px;
+        margin-right:5px;
+        background-image: url("Binomio.png");
+        
+    }
+
+    .polinomio{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 97%;
+        text-align: justify;
+        top: 289%;
+        float: left;
+        height: 430px;
+        width: 470px;
+        margin-left: 32px;
+        margin-right:5px;
+        background-image: url("polinomio.png");
+        
+    }
+    .mental{
+
+ 
+        position: absolute;
+        background-repeat: no-repeat;
+        background-size: 50%;
+        text-align: justify;
+        top: 112%;
+        float: left;
+        left: 50%;
+        height: 430px;
+        width: 470px;
+        margin-left: 85px;
+        margin-right:5px;
+        background-image: url("mapa.png");
+        
+    }
+
+    .vmonomio{
+
+ 
+        position: absolute;
+        text-align: justify;
+        top: 105%;
+        float: left;
+        left: 39%;
+    }
+
+    .vbinomio{
+
+ 
+        position: absolute;
+        text-align: justify;
+        top: 188%;
+        float: left;
+        left: 39%;
+    }
+
+    .vpolinomio{
+
+ 
+        position: absolute;
+        text-align: justify;
+        top: 300%;
+        float: left;
+        left: 39%;
+    }
 
     .texto{
     position: relative;
@@ -83,26 +170,13 @@
      
     
     }
-    .preguntas{
-    position: absolute;
-    height: 280px;
-    width: 100%;
-    top: 425px;
-    font-size: 18px;
-    left: 10px;
-    text-align: justify;
-    text-align-last: left;
-    color: black;
-    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
-
-   }
     
     .materia{
     font-size: 62px;
     font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
     }
 
-    .algebra{
+    .contenido{
     position: absolute;
     height: 280px;
     width: 100%;
@@ -126,50 +200,19 @@
     font-size: 38px;
     font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
     color: rgb(0, 0, 0);
-        
-    }
-
-    .monomio{
-
-        background-repeat: no-repeat;
-
-        float:left;
-        
-        height: 200px;
-        
-        width: 260px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("monomio.png");
 
     }
 
-    .tec{
+    .noticia{
+    position: absolute;
+    height: 280px;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+    left: -6px;
+    font-size: 38px;
+    font-family: 'Arial', 'Arial', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
 
-        background-repeat: no-repeat;
-        float:left;
-        height: 200px;
-        width: 260px;
-        margin-left: 5px;
-        margin-right:5px;
-        background-image: url("tec.jpg");
-
-    }
-
-    .texto{
-
-        position: absolute;
-        height: 280px;
-        width: 100%;
-        top: 425px;
-        font-size: 18px;
-        left: 10px;
-        text-align: justify;
-        text-align-last: left;
-        color: rgb(255, 255, 255);
-
-    }    
+}
 
