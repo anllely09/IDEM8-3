@@ -35,6 +35,14 @@
     
     }
 
+    .fondomat3{
+        
+        background-image: url("mat2.jpg");
+            
+        background-size: cover;
+        
+        }
+
     .fondoing{
         
         background-image: url("fondoss.jpg");
@@ -661,4 +669,76 @@
     float: left;
     left: 31%;
 
+}
+
+.titulom{
+
+    position: absolute;
+    height: 280px;
+    top: 50%;
+    text-align: justify;
+    left: 495px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.subt{
+    position: absolute;
+    height: 280px;
+    top: 425px;
+    text-align: justify;
+    left: 20px;
+    font-size: 25px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);    
+}
+
+.contenidom{
+    position: absolute;
+    height: 280px;
+    width: 85%;
+    top: 490px;
+    font-size: 20px;
+    left: 20px;
+    text-align: justify;
+    text-align-last: left;
+    color: black;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+.suma{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 97%;
+    text-align: justify;
+    top: 183%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    margin-left: 475px;
+    margin-right:5px;
+    background-image: url("suma.png");
+}
+
+.trinomio{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    text-align: justify;
+    top: 291%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    margin-left: 530px;
+    margin-right:5px;
+    background-image: url("trinomio.png");
+}
+
+.video{
+    position: absolute;
+    text-align: justify;
+    top: 360%;
+    float: left;
+    left: 425px;
 }
