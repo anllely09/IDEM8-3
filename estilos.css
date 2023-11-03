@@ -50,6 +50,14 @@
         background-size: cover;
         
         }
+
+    .fondoing3{
+        
+    background-image: url("ing3.jpg");
+                
+    background-size: cover;
+            
+    }
     
     .fondorel{
     
@@ -66,6 +74,14 @@
         background-size: cover;
                 
         }
+
+    .soc3{
+    
+    background-image: url("soc3.jpg");
+    
+    background-size: cover;                    
+    
+    }
     
     .fondobio{
         
@@ -741,4 +757,22 @@
     top: 360%;
     float: left;
     left: 425px;
+}
+
+.revolucion{
+
+    position: absolute;
+    height: 280px;
+    top: 50%;
+    text-align: justify;
+    left: 495px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.infografia{
+    position: absolute;
+    top: 68%;
+    left: 250px;
 }
