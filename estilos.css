@@ -929,3 +929,11 @@
     top: 2900%;
     left: 560px;
 }
+
+.videot{
+    position: absolute;
+    text-align: justify;
+    top: 288%;
+    float: left;
+    left: 425px;
+}
