@@ -723,18 +723,18 @@
     font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif; 
 }
 
-.suma{
+.diferencia{
     position: absolute;
     background-repeat: no-repeat;
     background-size: 97%;
     text-align: justify;
-    top: 183%;
+    top: 127%;
     float: left;
     height: 430px;
     width: 470px;
     margin-left: 475px;
     margin-right:5px;
-    background-image: url("suma.png");
+    background-image: url("diferencia.png");
 }
 
 .trinomio{
@@ -742,7 +742,7 @@
     background-repeat: no-repeat;
     background-size: 70%;
     text-align: justify;
-    top: 291%;
+    top: 247%;
     float: left;
     height: 430px;
     width: 470px;
@@ -754,7 +754,7 @@
 .video{
     position: absolute;
     text-align: justify;
-    top: 360%;
+    top: 310%;
     float: left;
     left: 425px;
 }
@@ -775,4 +775,143 @@
     position: absolute;
     top: 68%;
     left: 250px;
+}
+
+.paz{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 99%;
+    text-align: justify;
+    top: 145%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 477px;
+    background-image: url("paz.png");
+}
+
+.tituloi{
+    position: absolute;
+    height: 280px;
+    top: 50%;
+    text-align: center;
+    left: 443px;
+    font-size: 38px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.subti{
+    position: absolute;
+    height: 280px;
+    top: 190%;
+    text-align: justify;
+    left: 20px;
+    font-size: 25px;
+    font-family: 'Cambria', 'Cambria', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 0, 0);    
+}
+
+.rule1{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 90%;
+    text-align: justify;
+    top: 260%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 477px;
+    background-image: url("rule1.png");
+}
+
+.rule2{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 99%;
+    text-align: justify;
+    top: 410%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 477px;
+    background-image: url("rule2.png");
+}
+
+.rule3{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 77%;
+    text-align: justify;
+    top: 545%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 500px;
+    background-image: url("rule3.png");
+}
+
+.rule4{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 94%;
+    text-align: justify;
+    top: 688%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 500px;
+    background-image: url("rule4.png");
+}
+
+.rule5{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 94%;
+    text-align: justify;
+    top: 839%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 500px;
+    background-image: url("rule5.png");
+}
+
+.rule6{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 77%;
+    text-align: justify;
+    top: 973%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 500px;
+    background-image: url("rule6.png");
+}
+
+.rule7{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 77%;
+    text-align: justify;
+    top: 1115%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 500px;
+    background-image: url("rule7.png");
+}
+
+.rule8{
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 77%;
+    text-align: justify;
+    top: 973%;
+    float: left;
+    height: 430px;
+    width: 470px;
+    left: 500px;
+    background-image: url("rule8.png");
 }
