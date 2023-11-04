@@ -99,6 +99,14 @@
                 
     }
 
+    .tec3{
+        
+        background-image: url("tec3.jpg");
+                    
+        background-size: cover;
+                    
+        }
+
     .img{
     
     position: relative;
