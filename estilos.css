@@ -908,10 +908,16 @@
     background-repeat: no-repeat;
     background-size: 77%;
     text-align: justify;
-    top: 973%;
+    top: 1266%;
     float: left;
     height: 430px;
     width: 470px;
     left: 500px;
     background-image: url("rule8.png");
+}
+
+.rules{
+    position: absolute;
+    top: 2900%;
+    left: 560px;
 }
